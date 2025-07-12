@@ -1,0 +1,1 @@
+// Placeholder content for smart_contracts/EX$.sol
